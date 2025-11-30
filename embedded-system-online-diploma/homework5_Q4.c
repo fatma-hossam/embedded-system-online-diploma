@@ -2,7 +2,6 @@
 struct Sstudent_info
 {
 	char name[50];
-	int roll_num;
 	float degree;
 };
 int main()
